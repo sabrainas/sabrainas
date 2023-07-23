@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </span> 
 
-<br><br><br>
+<br><br>
 Também amo ouvir músicas, meu spotify abaixo para compartilharmos playlists 🎶🎶
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sabrinna.esm-br?si=15d1bf2b3c3b49da)
