@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=00878A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Sabrina.;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
+
+<br>
 <div>
     <p>Atualmente estou aprendendo Front-End.</p>
     <p>Sempre gostei de tecnologia, jogos e eletrônicos. Estou sempre buscando me informar sobre as novidades do mundo tecnológico.</p>
