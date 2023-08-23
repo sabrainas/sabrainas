@@ -30,6 +30,8 @@
 
 ![sabrainas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrainas&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrainas&layout=compact&theme=dracula)
+
 ## Contatos 📧
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncasabrina61@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@sazon3242) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrainas.m/)
