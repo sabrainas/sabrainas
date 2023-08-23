@@ -26,6 +26,12 @@
 <span>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </span> 
+<span>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</span>
 <br>
 
 ![sabrainas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrainas&show_icons=true&theme=tokyonight)
