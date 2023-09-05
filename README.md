@@ -5,8 +5,7 @@
 
 <br>
 <div>
-    <p>Atualmente estou aprendendo Front-End.</p>
-    <p>Sempre gostei de tecnologia, jogos e eletrônicos. Estou sempre buscando me informar sobre as novidades do mundo tecnológico.</p>
+    <p>Abaixo estão as minhas principais tecnologias.</p>
 </div>
 
 ## Skills 💻
@@ -44,6 +43,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-mendon%C3%A7a-pcd-763769180/)
 
 <br>
-Também amo ouvir músicas, meu spotify abaixo para compartilharmos playlists 🎶🎶
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sabrinna.esm-br?si=15d1bf2b3c3b49da)
