@@ -8,7 +8,10 @@
 
 <br>
 <div>
-    <p>Abaixo estão as minhas principais tecnologias.</p>
+    <h1>Programming languages</h1>
+
+    [![My Skills](https://skillicons.dev/icons?i=c,c#,java,html,css,tailwind,js,react,ts)](https://skillicons.dev)
+
 </div>
 
 ## Skills 💻
