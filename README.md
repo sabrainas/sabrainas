@@ -10,17 +10,26 @@
 
 ## Skills 💻
 
+<div align="center">
+
  [![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,tailwind,js,react,ts,nextjs,nodejs)](https://skillicons.dev)
 
+</div>
 
 <br>
 <br>
 
-## Tecnologies 💻
+## Tecnologies 👩🏼‍💻
 
+<div align="center">
+    
  [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,gitlab)](https://skillicons.dev)
 
+</div>
+
 <span align="center">
+
+## Stats 📊
     
 ![sabrainas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrainas&show_icons=true&theme=dracula)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrainas&layout=compact&theme=dracula) 
 
