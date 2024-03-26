@@ -20,7 +20,7 @@
 <br>
 <br>
 
-## Tecnologies 👩🏼‍💻
+## Technologies 👩🏼‍💻
 
 <div align="center">
 
