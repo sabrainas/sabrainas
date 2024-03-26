@@ -8,10 +8,10 @@
 
 <br>
 
-## Skills 💻
-
 <div align="center">
 
+## Skills 💻
+    
  [![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,tailwind,js,react,ts,nextjs,nodejs)](https://skillicons.dev)
 
 </div>
@@ -19,13 +19,18 @@
 <br>
 <br>
 
-## Tecnologies 👩🏼‍💻
+
 
 <div align="center">
+
+## Tecnologies 👩🏼‍💻
     
  [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,gitlab)](https://skillicons.dev)
 
 </div>
+
+<br>
+<br>
 
 <span align="center">
 
