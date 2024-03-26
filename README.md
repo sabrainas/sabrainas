@@ -8,9 +8,10 @@
 
 <br>
 
-<div align="center">
 
 ## Skills 💻
+
+<div align="center">
     
  [![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,tailwind,js,react,ts,nextjs,nodejs)](https://skillicons.dev)
 
@@ -19,11 +20,10 @@
 <br>
 <br>
 
-
+## Tecnologies 👩🏼‍💻
 
 <div align="center">
 
-## Tecnologies 👩🏼‍💻
     
  [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,git,github,gitlab)](https://skillicons.dev)
 
@@ -32,9 +32,10 @@
 <br>
 <br>
 
+## Stats 📊
+
 <span align="center">
 
-## Stats 📊
     
 ![sabrainas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrainas&show_icons=true&theme=dracula)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrainas&layout=compact&theme=dracula) 
 
@@ -45,7 +46,7 @@
 ## Contatos 📧
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncasabrina61@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@sazon3242) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrainas.m/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-mendon%C3%A7a-pcd-763769180/)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sabrinna.esm-br?si=15d1bf2b3c3b49da)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-mendon%C3%A7a-pcd-763769180/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sabrinna.esm-br?si=15d1bf2b3c3b49da)
 
 <br>
 
